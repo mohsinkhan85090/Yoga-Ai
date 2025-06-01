@@ -32,6 +32,10 @@ Open to improvements, new pose logic, or UI ideas via PRs or issues.
 ## `Contact`
 
 Ping through GitHub issues or direct message to collaborate.
+Feel free to contact me for any questions or collaborations:
+
+GitHub: mohsinkhan85090
+Email: 2k23.psitaiml2312021@gmail.com
 
 ---
 
